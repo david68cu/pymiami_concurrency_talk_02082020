@@ -9,7 +9,7 @@ dis==1.0.1
 docutils==0.16
 idna==2.8
 imagesize==1.2.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 multidict==4.7.4
 packaging==20.1
